@@ -1,4 +1,4 @@
-node {
+node (myagent'){
    // Mark the code checkout 'stage'....
    stage 'Checkout'
 
